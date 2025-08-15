@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A responsive portfolio website showcasing my projects and skills. Built as part of the freeCodeCamp curriculum.
+A modern, responsive portfolio showcasing my journey in software development, featuring interactive projects from command-line applications to data visualizations. Built with a focus on clean design and user experience.
 
 ## Features
 
@@ -22,11 +22,12 @@ A responsive portfolio website showcasing my projects and skills. Built as part 
    - Background in computer science
 
 3. **Projects**
-   - Home Streak (Habit Tracker)
-   - Tribute Page
-   - Product Landing Page
-   - Technical Documentation
-   - Survey Form
+   - **Home Streak** - A command-line habit tracker that gamifies family habits through a point system
+   - **Tribute Page** - A responsive tribute to Laura Müller, pioneering F1 race engineer
+   - **Product Landing Page** - Modern furniture showcase with responsive grid layout
+   - **Technical Documentation** - Comprehensive guide to HTML/CSS fundamentals
+   - **Hockey Survey Form** - Interactive survey with modern form validation
+   - **Data Visualization** - Interactive D3.js visualizations including choropleth maps and treemap diagrams
 
 4. **Contact**
    - Email contact information
@@ -35,26 +36,24 @@ A responsive portfolio website showcasing my projects and skills. Built as part 
 
 - HTML5
 - CSS3
-- Flexbox
-- CSS Grid
-- Media Queries
-- CSS Variables
-- Transitions & Transforms
+  - Flexbox
+  - CSS Grid
+  - Media Queries
+  - CSS Variables
+  - Transitions & Transforms
+- D3.js
+  - Data-Driven Documents
+  - Interactive Visualizations
 
-## User Stories Fulfilled
+## Live Demo
 
-- Welcome section with `id="welcome-section"` and h1
-- About section with `id="about"`
-- Projects section with `id="projects"`
-- Project tiles with links
-- Fixed navbar with `id="navbar"`
-- GitHub profile link with `id="profile-link"`
-- Contact section with `id="contact"`
-- Media queries for responsive design
-- Welcome section height equals viewport
-- Navbar always at top of viewport
+[View Live Demo on CodePen](https://codepen.io/Kris05lv/pen/LEpejeG)
 
-## Setup
+## Getting Started
 
-1. Clone the repository
-2. Open `index.html` in your browser
+```bash
+git clone https://github.com/Kris05lv/portfolio.git
+cd portfolio
+# Open index.html in your browser
+```
+
